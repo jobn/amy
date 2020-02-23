@@ -1,6 +1,6 @@
 # amy
 
-poc sandbox for testing any tech stack
+poc sandbox for testing AMY tech stack
 
 ## /amy-knex
 
@@ -17,9 +17,11 @@ change adapter in `./knexfile.js' to sqlite3 to avoid this. example here: https:
 
 ## /amy-feathers
 
-feathers driven backend
+feathers driven backend (not much to see here yet)
 
 ## /amy-frontend
 
 xstate-driven frontend
+
+bootstrapped using create-react-app so `yarn install && yarn start` should do the trick
 
